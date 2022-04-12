@@ -2,3 +2,6 @@ node_modules
 npm-debug.log
 dist
 test
+.gradle
+build
+upload-dir
